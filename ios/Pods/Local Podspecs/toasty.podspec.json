@@ -1,0 +1,26 @@
+{
+  "name": "toasty",
+  "version": "0.0.1",
+  "summary": "a flutter package for show toast",
+  "description": "a flutter package for show toast",
+  "homepage": "https://github.com/AliHoseinpoor/toasty",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Ali Hoseinpoor": "iamhoseinpoor@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "/goinfre/storage/recyclers_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/youarzaz/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/074805fe57aa9aff18981df2114166c6/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "39",
+                        "endColumns": "12",
+                        "endOffsets": "2791"
+                    }
+                },
+                {
+                    "source": "/Users/youarzaz/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha05.aar/d033d4fa0f21e8c39eee316556c18acc/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,215",
+                        "endLines": "4,7",
+                        "endColumns": "10,10",
+                        "endOffsets": "210,379"
+                    },
+                    "to": {
+                        "startLines": "40,43",
+                        "startColumns": "4,4",
+                        "startOffsets": "2796,2956",
+                        "endLines": "42,45",
+                        "endColumns": "10,10",
+                        "endOffsets": "2951,3120"
+                    }
+                },
+                {
+                    "source": "/Users/youarzaz/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.1.aar/fcb219e1a94a48952650c29611d7c079/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                }
+            ]
+        }
+    ]
+}

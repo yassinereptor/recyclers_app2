@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/fast_qr_reader_view/ios/Classes/FastQrReaderViewPlugin.h

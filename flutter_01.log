@@ -1,0 +1,54 @@
+Flutter crash report; please file at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter --no-color run --machine --track-widget-creation --device-id=ROOGAIC8B1301422 lib/main.dart
+
+## exception
+
+_InternalLinkedHashMap<String, dynamic>: {code: 100, message: Feature is disabled, data: {request: {method: _reloadSources, params: {pause: true, rootLibUri: file:///data/user/0/com.w2r.w2r/code_cache/recyclers_appIPVATO/recyclers_app/lib/main.dart.incremental.dill, packagesUri: file:///data/user/0/com.w2r.w2r/code_cache/recyclers_appIPVATO/recyclers_app/.packages, isolateId: isolates/572593790}}, details: This isolate cannot reload sources right now.}}
+
+```
+null```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, v1.7.8+hotfix.3, on Mac OS X 10.12.6 16G29, locale en)
+    • Flutter version 1.7.8+hotfix.3 at /goinfre/.docker/flutter
+    • Framework revision b712a172f9 (3 weeks ago), 2019-07-09 13:14:38 -0700
+    • Engine revision 54ad777fd2
+    • Dart version 2.4.0
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 28.0.3)
+    • Android SDK at /goinfre/sdk
+    • Android NDK location not configured (optional; useful for native profiling support)
+    • Platform android-28, build-tools 28.0.3
+    • ANDROID_HOME = /goinfre/sdk
+    • Java binary at: /Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1136-b06)
+    • All Android licenses accepted.
+
+[✓] Xcode - develop for iOS and macOS (Xcode 9.2)
+    • Xcode at /Applications/Xcode.app/Contents/Developer
+    • Xcode 9.2, Build version 9C40b
+    • CocoaPods version 1.7.2
+
+[✓] iOS tools - develop for iOS devices
+    • ios-deploy 1.9.4
+
+[✓] Android Studio (version 3.2)
+    • Android Studio at /Applications/Android Studio.app/Contents
+    • Flutter plugin version 31.3.1
+    • Dart plugin version 181.5656
+    • Java version OpenJDK Runtime Environment (build 1.8.0_152-release-1136-b06)
+
+[✓] VS Code (version 1.29.0)
+    • VS Code at /Applications/Visual Studio Code.app/Contents
+    • Flutter extension version 2.21.1
+
+[✓] Connected device (1 available)
+    • Nokia 3 1 Plus • ROOGAIC8B1301422 • android-arm64 • Android 9 (API 28)
+
+• No issues found!
+```
